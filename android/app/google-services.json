@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44071267268",
+    "project_id": "mundo-verde-84662",
+    "storage_bucket": "mundo-verde-84662.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44071267268:android:85025ca31a158d6522d291",
+        "android_client_info": {
+          "package_name": "com.mundo_verde.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSE_8IuxPDk7qwOBNHZg92lMj7Z8w5vGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
