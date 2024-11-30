@@ -1,16 +1,16 @@
 # mundo_verde
 
-A new Flutter project.
+Aplicativo Mundo Verde
 
-## Getting Started
+Transformando a Sustentabilidade em Diversão e Impacto Social
 
-This project is a starting point for a Flutter application.
+## Execução
 
-A few resources to get you started if this is your first Flutter project:
+O aplicativo foi feito inicialmente apenas para Android, para executar em seu ambiente de desenvolvedor:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Instale o flutter e todas suas dependências
+2. Clone o repositório para seu dispositivo
+3. No diretório do projeto execute "flutter pub get"
+4. Garanta que o dispositivo de teste é um Android (físico ou emulador) e execute "flutter run"
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Alternativamente você pode instalar diretamente o APK disponível em: https://drive.google.com/file/d/1UqCtvEVMCVtKdIa-1zrxUU7KWqtEy5Ci/view?usp=drive_link
